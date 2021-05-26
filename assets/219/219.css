@@ -53,33 +53,6 @@
 @import url("219-800.css") all and (min-width: 800px) and (max-width: 1366px);
 @import url("219-1367.css") all and (min-width: 1367px);
 @import url("219-1600.css") all and (min-width: 1600px);
-@import url("219-fix1.css") all and (min-width: 1367px);
+@import url("219-fix1.css") all and (min-width: 1367px);*/
 @import url("219-fix2.css") all and (min-width: 1367px);
-@import url("219-bg.css") all and (min-width: 400px);
-
-/*
-.resume h1 {
-    display: none;
-}
-
-@media screen and (min-width: 1367px) {
-    
-    #exp {
-        background-color: rgba(0, 0, 0, 0.609);
-        position: relative;
-        z-index: 10000; 
-        margin-left: 40%;
-        margin-top: 5%;
-        overflow-y: scroll;
-        border-radius: 1em;
-        padding: 1em;
-        padding-top: 0;
-        height: 90%;
-    } 
-}
-
-#exp h3 {
-    margin-bottom: 1em;
-}
-
-*/
+@import url("219-bg.css") all and (min-width: 400px); 
